@@ -151,4 +151,4 @@ try:
 			print("end")
 			f = 1
 except:
-	print("u gay.")
+	print("Exception Detected")
